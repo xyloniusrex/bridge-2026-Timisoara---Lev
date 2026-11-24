@@ -14,6 +14,8 @@ The files are split into 8 zip parts (`part01.zip`–`part08.zip`, ~1.8GB each e
 2. Download all 8 `partXX.zip` files.
 3. Extract each one into the same destination folder — the `.ARW` files will all land together.
 
+(Raw files in this repo itself live under [`photos/`](photos/).)
+
 If you'd rather clone the repo directly with full LFS support:
 
 ```
