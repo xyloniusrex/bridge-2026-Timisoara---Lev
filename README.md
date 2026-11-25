@@ -23,6 +23,13 @@ git lfs install
 git clone https://github.com/xyloniusrex/bridge-2026-Timisoara---Lev.git
 ```
 
+## JPEG versions
+
+Two JPEG sets are available, both as a folder in this repo and as a single zip on the **Releases** page:
+
+- **[`jpegs/`](jpegs/) / full JPEG set release](https://github.com/xyloniusrex/bridge-2026-Timisoara---Lev/releases/tag/jpegs-v1)** — straight full-resolution JPEG conversion of all 256 raws (camera white balance, no edits), ~1.4GB.
+- **[`edited/`](edited/) / edited best shots release](https://github.com/xyloniusrex/bridge-2026-Timisoara---Lev/releases/tag/edited-best-v1)** — the 28 best shots below, with per-photo color/exposure/local edits applied, ~510MB.
+
 ## Best shots
 
 Picked from a first pass over the full set — sharp, well-composed, good moments:
